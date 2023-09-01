@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ছক্কা</string>
+    <string name="add">যোগ করুন</string>
+    <string name="reset"> রিসেট </string>
+    <string name="roll">ঘুরান</string>
+    <string name="subtract">বিয়োগ</string>
+</resources>

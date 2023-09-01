@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="add">add</string>
+    <string name="reset">reset</string>
+    <string name="roll">roll</string>
+    <string name="subtract">subtract</string>
+</resources>
